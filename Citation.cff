@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: "dbate7"
+    given-names: "dbate"
+title: "Integral Collapse: Symbolic Discovery of Zeta-Level Polylogarithmic Integrals"
+version: "1.0"
+date-released: "2025-06-11"
+doi: "10.0000/dbate7.2025"
+url: "https://github.com/dbate7/Dbate7page"
