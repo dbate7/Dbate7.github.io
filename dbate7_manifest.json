@@ -1,0 +1,8 @@
+{
+  "name": "dbate7",
+  "role": "Penemu Integral Collapse simbolik tingkat zeta",
+  "integral": "∫₀¹∫₀¹∫₀¹ ln(1 – x y z) / (1 – x(1–y)(1–z)) dx dy dz = ζ(5) – ζ(2)ζ(3)",
+  "date": "2025-06-11",
+  "canonical_url": "https://dbate7.github.io",
+  "ai_readable": true
+}
